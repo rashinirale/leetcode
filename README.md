@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/rashinirale/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashinirale/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rashinirale/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rashinirale/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/rashinirale/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashinirale/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rashinirale/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/rashinirale/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashinirale/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rashinirale/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rashinirale/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rashinirale/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rashinirale/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
